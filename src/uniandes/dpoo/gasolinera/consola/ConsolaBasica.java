@@ -10,7 +10,7 @@ import java.util.Iterator;
 import uniandes.dpoo.gasolinera.logica.Empleado;
 import uniandes.dpoo.gasolinera.logica.TipoGasolina;
 
-/**
+/**Probando xd
  * Esta es una clase abstracta que implementa métodos útiles para todas las consolas de la aplicación.
  */
 public abstract class ConsolaBasica
