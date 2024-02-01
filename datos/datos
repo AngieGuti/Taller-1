@@ -1,0 +1,13 @@
+tipo:Corriente:9000:33.0
+tipo:Biomax:15000:15.0
+tipo:Diesel:7000:35.0
+tipo:Ultra:11000:12.0
+surtidor:Nicole:Corriente:0.0:Biomax:0.0:Diesel:0.0:Ultra:0.0
+surtidor:Federico:Corriente:0.0:Biomax:0.0:Diesel:0.0:Ultra:0.0
+surtidor:Jesus:Corriente:0.0:Biomax:0.0:Diesel:0.0:Ultra:0.0
+surtidor:Nicole:Corriente:0.0:Biomax:0.0:Diesel:0.0:Ultra:0.0
+empleado:Nicole:0
+empleado:Camila:0
+empleado:Federico:0
+empleado:Jesus:0
+empleado:Tomas:0
